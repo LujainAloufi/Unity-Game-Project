@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7c6976cf8e1d47379efa004b41ae53e, type: 3}
+  m_Name: New Char DB
+  m_EditorClassIdentifier: 
+  character:
+  - characterSprite: {fileID: 21300000, guid: 1beff4376ae8f4c6589d019964f71dc6, type: 3}
+  - characterSprite: {fileID: 21300000, guid: fb919f9a2e8af4a158fc0504773ebca3, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 44d05976238ce461480bcb5a6db4a620, type: 3}
+  - characterSprite: {fileID: 21300000, guid: a9e2389a5f3794eb782f5b933e9b8e61, type: 3}
+  - characterSprite: {fileID: 21300000, guid: a75e5c1071a2647279cc20bbba8b32d0, type: 3}
+  - characterSprite: {fileID: 21300000, guid: a651252a6e21f40e59131243d30104d8, type: 3}
