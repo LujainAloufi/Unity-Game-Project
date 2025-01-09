@@ -1,5 +1,5 @@
 
-# Flappy Finn - A 2D Pixel Art Arcade Game
+# Flappy Finn - A 2D Pixel Art Game
 
 **Flappy Finn** is a casual 2D pixel art game inspired by the classic **Flappy Bird**, but with a fun **Adventure Time** twist. Players control **Finn**, guiding him through a magical world filled with obstacles while collecting magic jars to score points.
 
